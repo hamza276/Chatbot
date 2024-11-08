@@ -12,9 +12,7 @@ This project is a chatbot interface powered by the LLaMA language model using th
 
 1.   **Clone the repository**  :
     ```bash
-    git clone https://github.com/your-username/llama-ai-assistant.git
-
-    cd llama-ai-assistant
+    git clone https://github.com/hamza276/Chatbot.git
     ```
 
 3.   **Install dependencies**  :
@@ -34,3 +32,4 @@ Run the Streamlit app:
 
 ```bash
 streamlit run Main.py
+```
