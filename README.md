@@ -1,8 +1,8 @@
-LLaMA AI Assistant
+**LLaMA AI Assistant**
 
 This project is a chatbot interface powered by the LLaMA language model using the Groq API, built with Streamlit for a simple and interactive user experience.
 
-   Features
+   **Features**
 
 - Real-time chat interface powered by LLaMA
 - User-friendly interface built with Streamlit
@@ -10,23 +10,23 @@ This project is a chatbot interface powered by the LLaMA language model using th
 
    Installation
 
-1.   Clone the repository  :
+1.   **Clone the repository**  :
     ```bash
     git clone https://github.com/your-username/llama-ai-assistant.git
     cd llama-ai-assistant
     ```
 
-2.   Install dependencies  :
+2.   **Install dependencies**  :
     Make sure you have Python 3.10.2 installed. Install dependencies from the `requirements.txt` file:
     ```bash
     pip install -r requirements.txt
     ```
 
-   Configuration
+   **Configuration**
 
 - The API key and model parameters are stored in `constants.py`. Modify this file to adjust the model settings.
 
-   Usage
+   **Usage**
 
 Run the Streamlit app:
 
