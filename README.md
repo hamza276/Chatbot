@@ -12,12 +12,12 @@ This project is a chatbot interface powered by the LLaMA language model using th
 
 1.   **Clone the repository**  :
     ```bash
-    git clone https://github.com/your-username/llama-ai-assistant.git
+    git clone https://github.com/your-username/llama-ai-assistant.git\n
     cd llama-ai-assistant
     ```
 
 2.   **Install dependencies**  :
-    Make sure you have Python 3.10.2 installed. Install dependencies from the `requirements.txt` file:
+    Make sure you have Python 3.10.2 installed. Install dependencies from the `requirements.txt` file:\n
     ```bash
     pip install -r requirements.txt
     ```
