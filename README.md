@@ -13,14 +13,14 @@ This project is a chatbot interface powered by the LLaMA language model using th
 1.   **Clone the repository**  :
     ```bash
     git clone https://github.com/hamza276/Chatbot.git
-    ```
+  
 
 3.   **Install dependencies**  :
     Make sure you have Python 3.10.2 installed. Install dependencies from the `requirements.txt` file:
 
     ```bash
     pip install -r requirements.txt
-    ```
+  
 
    **Configuration**
 
@@ -32,4 +32,3 @@ Run the Streamlit app:
 
 ```bash
 streamlit run Main.py
-```
